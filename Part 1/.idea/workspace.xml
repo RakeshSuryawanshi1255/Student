@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c2f3532-b2d8-4ce6-8fc1-e5202301f3d4" name="Changes" comment="" />
+    <list default="true" id="2617d23f-f3f5-42ee-bbfc-a531ca8b7f1d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +17,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "git-widget-placeholder": "user1"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="TaskManager">
